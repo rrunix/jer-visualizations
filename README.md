@@ -9,7 +9,7 @@ Material docente en abierto de la asignatura "Juegos en Red" del Grado en Diseñ
 
 **Fecha**: 10/11/2025.
 
-**Licencia**: Este trabajo está licenciado bajo [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/).
+**Licencia**: Este trabajo está licenciado bajo [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ## Sobre Este Repositorio
 
@@ -36,4 +36,4 @@ Visita `http://localhost:4000` en tu navegador.
 
 ## Licencia
 
-Este trabajo está licenciado bajo [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/).
+Este trabajo está licenciado bajo [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
